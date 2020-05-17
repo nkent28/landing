@@ -81,6 +81,11 @@ a {
   color: #BF0F12;
 }
 
+.container {
+  line-height: 100%;
+  width: 100%;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
